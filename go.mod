@@ -3,7 +3,7 @@ module github.com/red-hat-storage/odf-multicluster-orchestrator
 go 1.26.7
 
 require (
-	github.com/argoproj/argo-cd/v3 v3.3.10
+	github.com/argoproj/argo-cd/v3 v3.3.15
 	github.com/blang/semver/v4 v4.0.0
 	github.com/csi-addons/kubernetes-csi-addons v0.12.0
 	github.com/go-logr/zapr v1.3.0
